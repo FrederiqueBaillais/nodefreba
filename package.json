@@ -1,0 +1,22 @@
+{
+    "name": "@frederique.baillais/nodefreba",
+    "version": "1.0.1",
+    "description": "package test for node npx",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodefreba"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FrederiqueBaillais/nodefreba"
+    },
+    "keywords": [
+        "nodejs",
+        "freba"
+    ],
+    "author": {
+        "name": "FrederiqueBaillais",
+        "email": "frederique.baillais@gmail.com"
+    },
+    "license": "ISC"
+}
